@@ -9,16 +9,16 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)]()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)]()
 
-> 📚 **Course:** Web Programming  
-> 🏫 **Institution:** *BML Munjal University*  
-> 👨‍🏫 **Instructor:** *Navyumm*
+> 📚 **Course:** **Web Programming**  
+> 🏫 **Institution:** **BML Munjal University**  
+> 👨‍🏫 **Instructor:** **Navyumm**
 
 ---
 
 ## 📌 Overview
 
 This repository contains my **Web Programming** course assignment.  
-It demonstrates building a fully functional, responsive, and interactive web application using modern front-end technologies (and optionally, back-end support).
+It demonstrates the assignment I would complete thorugh out this course and this semester.
 
 ---
 
