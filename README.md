@@ -18,8 +18,35 @@
 ## 📌 Overview
 
 This repository contains my **Web Programming** course assignment.  
-It demonstrates the assignment I would complete thorugh out this course and this semester.
+It demonstrates the assignment's I would complete thorugh out this course and this semester.
 
 ---
 
 ## 🗂 Project Structure
+📂 assignment-folder
+├── 📄 assignment.html → Main HTML file
+├── 🎨 a.css → CSS styles
+
+---
+
+## 🚀 Features 
+✅ Clean and semantic HTML structure  
+✅ Well-organized and reusable CSS  
+
+
+## 🛠 Technologies Used
+- **HTML5**
+- **CSS**
+
+  ---
+
+## 📄 How to Run
+
+1️⃣ **Clone the repository:**
+```bash
+git clone https://github.com/SUPGAMI2361/Web-Programming.git
+
+2️⃣ **Navigate into the folder:**
+cd Web-Programming
+
+3️⃣ **Open assignment.html in your browser.**
