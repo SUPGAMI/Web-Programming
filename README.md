@@ -22,11 +22,11 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 
 ---
 
-📅 Assignment Date / Submission Date – 12/08/2025.
-📝 Learning Outcomes – Learned how to use heading and add a image to the HTML file.
-📋 Assignment Requirements – Create a simple profile page with your name, a heading, an image, and a short paragraph about yourself.
-🎯 Future Improvements – I plan to use particle.js to make it more attractive and use node.js for some parts too.
-📜 License – No license
+- 📅 Assignment Date / Submission Date – 12/08/2025.
+- 📝 Learning Outcomes – Learned how to use heading and add a image to the HTML file.
+- 📋 Assignment Requirements – Create a simple profile page with your name, a heading, an image, and a short paragraph about yourself.
+- 🎯 Future Improvements – I plan to use particle.js to make it more attractive and use node.js for some parts too.
+- 📜 License – No license
 
 ---
 
