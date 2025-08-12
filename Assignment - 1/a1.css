@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+    color: black; /* Changes all text to white */
+}
+
+h1 {
+    color: black; /* Changes h1 text to blue */
+}
+
+.before-br {
+    color: darkblue; /* Changes p text to blue */
+    font-size: 24px; /* Change to your desired size */
+}
+
+.after-br{
+    color: black; /* Changes text after <br> to blue */
+    font-size: 18px;
+}
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background: black;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
