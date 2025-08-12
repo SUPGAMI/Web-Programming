@@ -58,7 +58,7 @@ git clone https://github.com/SUPGAMI2361/Web-Programming.git
 2️⃣ **Navigate into the folder:**
 cd Web-Programming
 
-3️⃣ **Open assignment.html in your browser.**
+3️⃣ **Open assignment.html in your browser.
 
 ---
 📌 Notes
