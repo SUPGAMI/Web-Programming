@@ -31,7 +31,7 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 ---
 
 ## 🗂 Project Structure
-```📂 assignment-folder
+📂 assignment-folder```
 |── 📄 assignment.html → Main HTML file
 |── 🎨 a.css → CSS styles```
 
@@ -52,7 +52,7 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 ## 📄 How to Run
 
 1️⃣ **Clone the repository:**
-bash
+```bash
 git clone https://github.com/SUPGAMI2361/Web-Programming.git
 
 2️⃣ **Navigate into the folder:**
