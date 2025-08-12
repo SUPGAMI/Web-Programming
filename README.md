@@ -31,9 +31,9 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 ---
 
 ## 🗂 Project Structure
-'''📂 assignment-folder
+```📂 assignment-folder
 ├── 📄 assignment.html → Main HTML file
-├── 🎨 a.css → CSS styles'''
+├── 🎨 a.css → CSS styles```
 
 ---
 
