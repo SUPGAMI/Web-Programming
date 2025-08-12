@@ -1,6 +1,6 @@
 # Web-Programming
 
-![Web Programming Assignment Banner](assets/banner.png)
+![Web Programming Assignment Banner](banner_optimized.png)
 
 # 🌐 Web Programming Assignment
 
