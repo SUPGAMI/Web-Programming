@@ -65,5 +65,3 @@ git clone https://github.com/SUPGAMI2361/Web-Programming.git
 cd Web-Programming
 
 3️⃣ **Open assignment.html in your browser.
-
----
