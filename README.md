@@ -48,6 +48,12 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 - **CSS**
 
 ---
+📌 Notes
+
+This project is part of my coursework and is intended for educational purposes.
+Feel free to explore, but please do not copy directly for your own submissions.
+
+---
 
 ## 📄 How to Run
 
