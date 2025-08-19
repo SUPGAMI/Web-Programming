@@ -52,9 +52,9 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 ## 📸 Screenshots  
 
 ### 🖥️ Homepage  
-![Homepage Screenshot](Page2.1.png)  
+![Homepage Screenshot](Page_2.1.png)  
 
 ### 🎨 Embedded Video  
-![Styled Page Screenshot](Page2.2.png)  
+![Styled Page Screenshot](Page_2.2.png)  
 
 --
