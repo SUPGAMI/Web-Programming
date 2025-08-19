@@ -1,0 +1,47 @@
+body{
+    background-color: darkgray; /* Changed background color to darkgray */
+    color: black; /* Changes all text to black */
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-style: bold;;
+}
+
+.before-br{
+    /* font-variant: normal; */
+    color: firebrick;
+    font-family: cursive;
+    size: 35x;
+    font-size: medium;
+    font-style: oblique;
+}
+
+.after-br{
+    /* font-variant: normal; */
+    color: darkgreen;
+    font-family: cursive;
+    size: 35px;
+    font-size: medium;
+    font-style: italic;
+}
+
+table{
+    border: 3px solid black; /* Changed border to 3px solid black */
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+
+caption {
+    font-family: cursive;
+    font-size: 30px;
+    font-style: oblique;
+    color: black;
+}
