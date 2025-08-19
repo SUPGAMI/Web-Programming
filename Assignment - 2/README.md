@@ -24,7 +24,7 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 
 - 📅 Assignment Date / Submission Date – 19/08/2025.
 - 📝 Learning Outcomes – Learned how to make tables and add a embedded video to the HTML file.
-- 📋 Assignment Requirements – Create a simple profile page with your name, a heading, an image, and a short paragraph about yourself.
+- 📋 Assignment Requirements – Design a college timetable web page using HTML tables and semantic tags.
 - 🎯 Future Improvements – I plan to use particle.js to make it more attractive and use node.js for some parts too.
 - 📜 License – No license
 
@@ -32,8 +32,8 @@ It demonstrates the assignment's I would complete thorugh out this course and th
 
 ## 🗂 Project Structure
 📂 assignment-folder```
-|── 📄 assignment.html → Main HTML file
-|── 🎨 a.css → CSS styles```
+|── 📄 assignment2.html → Main HTML file
+|── 🎨 a2.css → CSS styles```
 
 ---
 
